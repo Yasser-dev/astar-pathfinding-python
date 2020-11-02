@@ -4,8 +4,8 @@
 
 #### Input:
 
-![SS1](/screenshots/input.png)
+![input ss](/screenshots/input.png)
 
 #### Result:
 
-![SS1](/screenshots/solved.png)
+![result ss](/screenshots/solved.png)
