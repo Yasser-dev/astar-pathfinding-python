@@ -8,4 +8,4 @@
 
 #### Result:
 
-![result ss](/screenshots/solved.png)
+![result ss](/screenshots/Solved.png)
